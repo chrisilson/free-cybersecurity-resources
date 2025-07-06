@@ -34,11 +34,13 @@ In a real IT job, environments break. Systems need to be rebuilt. New hardware a
 
 ## Key Operating Systems in This Lab
 
-| OS | Purpose |
-|----|---------|
+| OS / Platform | Purpose |
+|---------------|---------|
 | **Windows 11 Evaluation** | Enterprise client for testing domain joins, GPOs |
 | **Windows Server Evaluation** | Domain Controller, DNS, DHCP, file shares |
 | **Kali Linux** | Security testing, reconnaissance, scripting |
+| [**Metasploit Vulnerable Targets**](https://docs.rapid7.com/metasploit/setting-up-a-vulnerable-target/) | Simulated vulnerable Linux systems for offensive testing |
+| [**Security Onion 2.4**](https://docs.securityonion.net/en/2.4/first-time-users.html) | Network detection, intrusion analysis, and SIEM practice |
 
 All of these are available for free through legitimate sources, such as the [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter) and [Kali.org](https://www.kali.org/get-kali/).
 
