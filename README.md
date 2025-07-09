@@ -50,8 +50,7 @@ This project is built to support learners who are **new to cybersecurity** and l
 | 27 | [IBM SkillsBuild](https://skillsbuild.org/) | career training, digital skills, cybersecurity fundamentals, workplace readiness, cloud basics, entry-level skills, job alignment, hands-on projects, soft skills, career pathways |
 | 28 | [Blue Team Labs Online](https://blueteamlabs.online/) | incident response, log analysis, malware investigation, real-world labs, SOC simulation, blue team CTFs, SIEM, threat hunting, alerts, cyber defense |
 | 29 | [metaCTF](https://metactf.com/) | capture the flag, ethical hacking, cryptography, web exploitation, reverse engineering, red vs blue, beginner-friendly, security awareness, fun challenges, team-based events |
-| 30 | [TryHackMe Vault Typhoon Room](https://tryhackme.com/room/vaulttyphoon) | hands-on lab, hacking simulation, real-world environment, exploit practice, red team, vulnerability assessment, cloud security, privilege escalation, penetration testing, skill development |
-
+| 30 | [TryHackMe Vault Typhoon Room](https://tryhackme.com/room/volttyphoon) | hands-on lab, hacking simulation, real-world environment, exploit practice, red team, vulnerability assessment, cloud security, privilege escalation, penetration testing, skill development |
 
 > ℹ️ More resources will be added daily as the series progresses.
 
