@@ -52,8 +52,6 @@ This project is built to support learners who are **new to cybersecurity** and l
 | 29 | [metaCTF](https://metactf.com/) | capture the flag, ethical hacking, cryptography, web exploitation, reverse engineering, red vs blue, beginner-friendly, security awareness, fun challenges, team-based events |
 | 30 | [TryHackMe Vault Typhoon Room](https://tryhackme.com/room/volttyphoon) | hands-on lab, hacking simulation, real-world environment, exploit practice, red team, vulnerability assessment, cloud security, privilege escalation, penetration testing, skill development |
 
-> ℹ️ More resources will be added daily as the series progresses.
-
 ---
 
 ## 🔗 How to Use This Repo
@@ -61,7 +59,6 @@ This project is built to support learners who are **new to cybersecurity** and l
 - **Browse** the table above
 - **Click** on any resource to visit it directly
 - **Search** by keyword to find resources relevant to a topic
-- **Share** the repo using the short link or NFC tag at events
 
 ---
 
@@ -85,7 +82,6 @@ Eva Benn
 Microsoft Security | Top 20 Cybersecurity Women of the World 2024 | Top 20 Most Inspiring Women in Cyber 2025 | The Hacking Games | Advisory Board @ CEH & GIAC | CISSP, CEH, CCSP, Security+, GIAC x6
 
 ---
-
 
 ## 🪪 License
 
